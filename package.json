@@ -3,10 +3,10 @@
     "name": "Alex Kaul",
     "email": "alexkaul@googlemail.com"
   },
-  "name": "ng-img-crop",
+  "name": "ng-img-crop-alias",
   "prettyName": "ngImgCrop",
   "version": "0.3.2",
-  "description": "Image crop directive for AngularJS",
+  "description": "Image crop directive for AngularJS with NPM support",
   "license": "MIT",
   "homepage": "https://github.com/alexk111/ngImgCrop",
   "repository": {
